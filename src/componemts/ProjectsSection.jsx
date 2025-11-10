@@ -21,8 +21,8 @@ const ProjectsSection = () => {
     },
     {
       id: 3,
-      title: "Ramdom Poem",
-      desc: "Myanmar Poem Random Using Javascript.",
+      title: "Random Poem",
+      desc: "Myanmar Random poem Using Javascript.",
       demo : "https://randompoems.vercel.app/",
       image: "https://cdn.dribbble.com/userupload/12685068/file/original-ac6494f4bab98a867e54b3e9b078b30c.png?resize=400x0",
       badge: "JavaScript"
