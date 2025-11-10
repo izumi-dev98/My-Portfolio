@@ -6,7 +6,7 @@ const SkillsProgress = () => {
     { name: "HTML", percentage: 70 },
     { name: "CSS", percentage: 70 },
      { name: "Javascript", percentage: 60 },
-    { name: "Booytsrap", percentage: 70 },
+    { name: "Bootstrap", percentage: 70 },
      { name: "Tailwind CSS", percentage: 60 },
     { name: "Laravel", percentage: 70 },
     { name: "PHP", percentage: 60 },
